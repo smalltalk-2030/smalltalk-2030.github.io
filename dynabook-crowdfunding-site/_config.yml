@@ -1,0 +1,12 @@
+title: "Chromebook を、みんなの手に。"
+description: "Smalltalk-2030 と Chromebook で、誰もが自分の計算世界を持てるように。"
+lang: ja
+timezone: Asia/Tokyo
+url: ""
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
