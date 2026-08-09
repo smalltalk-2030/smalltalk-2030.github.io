@@ -224,8 +224,8 @@ Smalltalk-2030 を、
 
 そんな感想も、この構想を作る大切な参加だと思っている。
 
-**このサイトのリポジトリ：**
-https://github.com/smalltalk-2030/smalltalk-2030.github.io
+**このサイトのリポジトリ：**  
+<https://github.com/smalltalk-2030/smalltalk-2030.github.io>
 
 </div>
 
