@@ -6,6 +6,19 @@ description: "DynaBook を、一部の人の高価な道具ではなく、誰も
 
 # Chromebook を、みんなの手に。
 
+<p class="small">
+これはまだクラウドファンディングの募集ページではありません。<br>
+DynaBook を誰の手にも届くものにするための、公開された構想です。
+</p>
+
+<p class="small">
+短縮URL: <a href="https://x.gd/JfWQA">https://x.gd/JfWQA</a>
+</p>
+
+<p class="small">
+<a href="https://x.gd/JfWQA"><img src="toplevel.qr.png" alt="Short URL QR code" width="140" height="140"></a>
+</p>
+
 <p class="lead">
 DynaBook を、一部の人だけが持てる高価な機械にはしたくない。
 Smalltalk-2030 は FLOSS にする。
