@@ -20,7 +20,7 @@ bundle exec jekyll serve
 
 ## 方針
 
-- JavaScript なし
+- JavaScript を必須にしない（読み上げなどの補助機能には使用可）
 - 画像なし
 - 外部フォントなし
 - Jekyll のみ
