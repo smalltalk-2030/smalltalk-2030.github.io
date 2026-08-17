@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<nav class="breadcrumbs" aria-label="{% if page.lang == 'en' %}Breadcrumb{% else %}パンくずリスト{% endif %}">
+  <a href="{{ '/' | relative_url }}">Smalltalk-2030</a>
+  {% for crumb in page.breadcrumbs %}
+    <span aria-hidden="true">›</span>
+    {% if crumb.url %}
+      <a href="{{ crumb.url | relative_url }}">{{ crumb.label }}</a>
+    {% else %}
+      <span aria-current="page">{{ crumb.label }}</span>
+    {% endif %}
+  {% endfor %}
+</nav>
+
+<header class="principle-header">
+  <h1>{{ page.title }}</h1>
+  {% if page.alternate_url and page.alternate_label %}
+    <p class="language-switch"><a href="{{ page.alternate_url | relative_url }}" lang="{{ page.alternate_lang }}">{{ page.alternate_label }}</a></p>
+  {% endif %}
+</header>
+
+{{ content }}

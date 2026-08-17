@@ -238,6 +238,10 @@ Smalltalk-2030 を、
 
 ### Dive Deeper
 
+[原則 / Principles]({{ '/ja/principles/' | relative_url }})
+
+Smalltalk-2030 の設計と運営を導く上位原則。日本語版から各英語版へ移動できます。
+
 このサイトのリポジトリ：
 
 <https://github.com/smalltalk-2030/smalltalk-2030.github.io>
