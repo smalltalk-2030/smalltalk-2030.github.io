@@ -242,6 +242,10 @@ Smalltalk-2030 を、
 
 Smalltalk-2030 の設計と運営を導く上位原則。日本語版から各英語版へ移動できます。
 
+[日記]({{ '/ja/diary/' | relative_url }})
+
+Smalltalk-2030 の考えと設計判断が生まれた過程を、一つひとつ残します。
+
 このサイトのリポジトリ：
 
 <https://github.com/smalltalk-2030/smalltalk-2030.github.io>
